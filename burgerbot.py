@@ -30,6 +30,7 @@ service_map = {
     120702: "Meldebescheinigung",
     120703: "Reisepass beantragen",
     120914: "Zulassung eines Fahrzeuges mit auswärtigem Kennzeichen mit Halterwechsel",
+    121151: "Reisepass beantragen",
     121469: "Kinderreisepass beantragen / verlängern / aktualisieren",
     121598: "Fahrerlaubnis Umschreibung einer ausländischen Fahrerlaubnis aus einem EU-/EWR-Staat",
     121616: "Führerschein Kartenführerschein umtauschen",
